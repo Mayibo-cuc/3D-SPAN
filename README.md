@@ -6,7 +6,7 @@
 ## Dataset
 The 3D-SPAD dataset we proposed is preprocessed and stored in the JSON file and placed in a folder named data. If you want to visualize, you can visit this [webpage](https://github.com/Mayibo-cuc/3D-SPAD) to get the original 3D scene data.
 
-Data structure：
+Data structure(Json)：
   -graph:
     -scene_name: Scene ID.
     -zero_num: Number of nodes with empty label. (from the end)
